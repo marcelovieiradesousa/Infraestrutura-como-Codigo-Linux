@@ -23,7 +23,7 @@ useradd joao -G GRP_ADM
 echo 'Criando usuarios VEN'
 useradd debora -G GRP_VEN
 useradd sebastiana -G GRP_VEN
-useradd roberto GRP_VEN
+useradd roberto -G GRP_VEN
 
 echo 'Criando usuarios SEC'
 useradd josefina -G GRP_SEC
